@@ -1,0 +1,13 @@
+[package]
+name = "erc721"
+version = "0.1.0"
+description = "Contracts ERC720"
+homepage = ""
+cairo-version = "2.0.0-rc7"
+
+[dependencies]
+starknet = "2.0.0-rc7"
+
+[[target.starknet-contract]]
+sierra = true
+
