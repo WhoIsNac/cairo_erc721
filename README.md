@@ -11,5 +11,5 @@ Features:
 
 # A Implementation of ERC721A for Cairo
 
-A implementation of Chiru Labs' ERC721A written in Cairo for [StarkNet](https://starkware.co/product/starknet/), a decentralized ZK Rollup.
+A implementation ERC721A written in Cairo for [StarkNet](https://starkware.co/product/starknet/), a decentralized ZK Rollup.
 
